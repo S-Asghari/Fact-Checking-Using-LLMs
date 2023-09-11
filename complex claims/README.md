@@ -1,4 +1,4 @@
-<span style="color: red;">Results from the ProgramFC model:</span>
+### Results from the ProgramFC model:
 ([Fact-Checking Complex Claims with Program-Guided Reasoning](https://arxiv.org/abs/2305.12744))
 ![image](https://github.com/S-Asghari/Fact-Checking-Using-LLMs/assets/42779113/0a1ff70f-7a43-4b99-b7ca-38aa6b0eea97)
 ### Results from GPT-3.5-turbo and GPT-4 as baselines:
